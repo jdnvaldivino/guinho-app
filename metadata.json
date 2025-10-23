@@ -1,0 +1,5 @@
+{
+  "name": "BeePass Management Portal",
+  "description": "A web application for managing tow truck services and impound lot operations for Detran.SP, inspired by the BeePass concept.",
+  "requestFramePermissions": []
+}
